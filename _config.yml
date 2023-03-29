@@ -41,14 +41,14 @@ version: 3.0.0
 
 # Navbar page list
 nav:
-  - title: LinkedIn
-    url: https://www.linkedin.com/in/tomtclai/
+  # - title: LinkedIn
+  #   url: https://www.linkedin.com/in/tomtclai/
 
-  - title: Github  
-    url: https://github.com/tomtclai
+  # - title: Github  
+  #   url: https://github.com/tomtclai
 
-  - title: Twitter
-    url: https://twitter.com/toms_iphone
+  # - title: Twitter
+  #   url: https://twitter.com/toms_iphone
     
   # - title: Blog
   #   url: /archive
